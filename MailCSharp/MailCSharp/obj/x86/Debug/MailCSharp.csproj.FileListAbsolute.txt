@@ -1,9 +1,0 @@
-D:\MailCSharp\MailCSharp\bin\Debug\MailCSharp.exe
-D:\MailCSharp\MailCSharp\bin\Debug\MailCSharp.pdb
-D:\MailCSharp\MailCSharp\obj\x86\Debug\MailCSharp.Form1.resources
-D:\MailCSharp\MailCSharp\obj\x86\Debug\MailCSharp.Properties.Resources.resources
-D:\MailCSharp\MailCSharp\obj\x86\Debug\MailCSharp.csproj.GenerateResource.Cache
-D:\MailCSharp\MailCSharp\obj\x86\Debug\MailCSharp.exe
-D:\MailCSharp\MailCSharp\obj\x86\Debug\MailCSharp.pdb
-D:\MailCSharp\MailCSharp\obj\x86\Debug\MailCSharp.Tips.resources
-D:\MailCSharp\MailCSharp\obj\x86\Debug\MailCSharp.csprojResolveAssemblyReference.cache
